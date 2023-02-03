@@ -10,5 +10,6 @@ $('select').css({
     width: "fit-content",
     textAlign: "center",
     width: "200px",
+    height: "30px",
     marginTop: "100px"
 })
